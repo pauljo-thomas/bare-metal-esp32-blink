@@ -1,0 +1,9 @@
+# Generated firmware output
+build/
+
+# Local Xtensa toolchain installation (about 335 MB)
+xtensa-esp32-elf/
+
+# Python cache files
+__pycache__/
+*.py[cod]
